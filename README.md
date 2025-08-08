@@ -3,5 +3,5 @@
 ## Olá! eu sou o Leonardo! 
 
 - 🔭 Atualmente estou trabalhando como Atendente de Telemarketing
-- 🎒 Atualmente estudando T.i na Cruzeiro do Sul!
--->
+- 🎒 estudando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul!
+---

@@ -7,7 +7,8 @@
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-sousa-2644b7231/">
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0646895c-4a10-45c2-a9d6-d5a0e5724caf" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/b827ced2-3988-441c-9faa-9d399478635f" />
+
 </div>
 
 ---
